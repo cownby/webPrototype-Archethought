@@ -1,0 +1,45 @@
+- name: GitHub
+  url: https://github.com/Archethought
+  class: icon-github
+  title: "Archethought Open Source"
+
+- name: YouTube
+  url: https://www.youtube.com/channel/UCvhjutnHeh9fqCeDHhGJsLg
+  class: icon-youtube
+  title: "Achethought YouTube Videos"
+
+- name: Twitter
+  url: https://twitter.com/archethoughts
+  class: icon-twitter
+  title: "Archethoughts on Twitter"
+
+- name: Facebook
+  url: https://www.facebook.com/cosolvenetwork
+  class: icon-facebook
+  title: "Sister Company CoSolve"
+
+
+#- name: Phlow YouTube Google+
+#  url: https://plus.google.com/u/0/+Phlow
+#  class: icon-googleplus
+#  title: "YouTube Google+"
+
+# - name: Soundcloud
+#   url: http://soundcloud.com/
+#   class: icon-soundcloud
+#   title: ""
+
+# - name: Instagram
+#   url: http://instagram.com/
+#   class: icon-instagram
+#   title: ""
+
+# - name: Pinterest
+#   url: http://www.pinterest.com/
+#   class: icon-pinterest
+#   title: ""
+
+# - name: Xing
+#   url: https://www.xing.com/profile/
+#   class: icon-xing
+#   title: Xing Profil

@@ -1,0 +1,57 @@
+# Author details
+#
+# 1. Edit information below
+# 2. Change site author in config.yml
+# 3. Change default post/page authors in config.yml
+#
+# Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
+
+dixon_dick:
+  name: Dixon Dick
+  web: https://www.linkedin.com/in/dixondick
+  email: dixon@archethought.com
+  avatar: avatars/dixon.jpg
+  bio: "Dad, Entrepreneur, Technologist, Mentor"
+
+carolyn_ownby:
+  name: Carolyn Ownby
+  web: https://www.linkedin.com/in/carolynownby
+  email: carolyn@archethought.com
+  avatar: avatars/carolyn.jpg
+  bio: "Versatile Software Developer"
+
+krizia_conrad:
+  name: Krizia Conrad
+  web: https://www.linkedin.com/in/kkconrad
+  twitter: https://twitter.com/KKrConrad
+  avatar: avatars/purpleOneEye.jpg
+  bio: "Web Developer"
+
+jordan_dick:
+  name: Jordan Dick
+  web: https://www.linkedin.com/in/jordan-dick-01872582
+  email: jordan@archethought.com
+  avatar: avatars/crossEyeSmile.jpg
+  bio: ""
+
+daniel_zukowski:
+  name: Daniel Zukowski
+  web: https://www.linkedin.com/in/danielzukowski
+  email: daniel@archethought.com
+  avatar: avatars/daniel.jpg
+  bio: ""
+
+chris-boertien:
+  name: Chris Boertien
+  web: https://ca.linkedin.com/in/chris-boertien-76714636
+  email: chris@archethought.com
+  avatar: avatars/chrisb.jpg
+  bio: "Software Engineer with experience in Web Frameworks, Programming Languages, Operating Systems, System Administration, Devops and Data Analysis."
+
+
+
+peter_klipfel:
+  name: Peter Klipfel
+  web: http://peterklipfel.com/
+  email: peter@klipfel.me
+
