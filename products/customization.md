@@ -14,11 +14,14 @@ _Working with the Community to Create Revolutionary Solutions_
 Smart Infrastructure is about creating sustainable communities, social heath, better farming & water conservation practices along with healthy economies. Using the Internet of Things like beacons and sensors we can collect large amounts of data that allow us to monitor, change, and develop better ways of living. IoT can be designed for large projects as well as small.
 
 ## Technology Meetups
-Archethought hosts, sponsors, and helps organize numerous meetups related to startups, data, and music in Longmont. We would love to see you at the next one!
+Archethought hosts, sponsors, and helps organize numerous meetups related to startups, data, and music in Longmont. 
+We would love to see you at the next one!
 
 * <a href="http://www.meetup.com/Applied-Data-Engineering/" target="_meetup"> Data Science</a>
-* <a href="http://www.meetup.com/LongmontHackerSpace/events/218668595/" target="_meetup">Codelab </a>
 * <a href="http://www.meetup.com/Smart-Cities-Initiative/" target="_meetup">Smart Cities </a>
+* <a href="https://www.meetup.com/CoSolve/" target="_meetup" >CoSolve networking</a>
+* <a href="https://www.meetup.com/Startup-Longmont/" target="_meetup" >Startup Longmont</a>
+* <a href="https://www.meetup.com/Fort-Collins-Longmont-CodeLab-Meetup/" target="_meetup" >Code Lab</a>
 
 ## Brown Bags
 Both internally and externally, we hold bring-your-own-lunch and laptop "brown bag" sessions that teach participants something new in bite-sized chunks.

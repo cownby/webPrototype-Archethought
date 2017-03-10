@@ -19,12 +19,12 @@ widget2:
   title: "Solutions "
   url: '/products/'
   image: borrowed/pixabay-board-1521348__340.jpg
-  text: 'Solutions that point the way (link to base products page with other image options)'
+  text: 'We define innovation as the identification and removal of bottlenecks. That is what we do! '
 widget3:
   title: "Customization"
   url: '/products/customization'
-  image: borrowed/pixabay-gear-1015715__340.jpg
-  text: 'We are dedicated to open source'
+  image: CosolveUnit1-5-340w.jpg
+  text: 'We <em>love</em> tech, and are dedicated to open source solutions.'
 #
 # Use the call for action to show a button on the frontpage
 #

@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: Archethought Team
-subheadline: "ransform Your Business Through Knowledge"
+subheadline: "Transformation Through Knowledge"
 #teaser: "Transform Your Business Through Knowledge"
 header:
   image_fullwidth: gear-wallpaper-1600x507-dark.jpg
@@ -11,10 +11,11 @@ permalink: "/team/"
 
 ---
 
-![Archethought Team]({{site.urlimg}}/IMG_6253-group-w1024h550.jpg "Archethought Team")
+![Archethought Team]({{site.urlimg}}/IMG_6253-group.jpg "Archethought Team")
 
 The Archethought team has a wide variety of skill sets and diciplines from backend development, frontend design, to circuit and sensor implementation. We look to cultivate a team environment that is fun and engaging with the opportunity to learn new things and explore new technologies.
 
+We consist of deeply experienced engineering and business team members, including multiple members with graduate degrees from CU Boulder, CSU, Notre Dame, and Washington University as well as experience delivering products and services at companies such as IBM, Compaq and Silicon Valley Bank.
 <div class="row">
 
   <div class="large-7 columns"  text-align: right>
@@ -22,7 +23,8 @@ The Archethought team has a wide variety of skill sets and diciplines from backe
 	<img src="{{ site.urlimg }}JordanKeyshaKrizia-w500.jpg" alt="Jordan, Keysha, Krizia hard at work"/>
 	
   </div>
-  <div class="large-5 columns panel" style="background: #EFC94C" text-align: left>
+  <!-- style="background: #EFC94C" -->
+  <div class="large-5 columns panel"  text-align: left>
 	<ul>
 		<li>We work with and collect big data sets, then combine your data with tools that bring you insight</li>
 		<li>Using Beacons and Sensors, we gather data and seek to create learning and actionable observations</li>

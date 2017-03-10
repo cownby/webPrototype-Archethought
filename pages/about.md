@@ -2,45 +2,54 @@
 layout: page-fullwidth
 title: About Archethought
 excerpt: "excerpt: Technology developers of strong character"
-subheadline: "Transform Your Business Through Knowledge"
+subheadline: "Transformation Through Knowledge"
 #teaser: "teaser: Technology developers of strong character"
 header:
-  image_fullwidth: gear-wallpaper-1600x507-dark.jpg
+  image_fullwidth: Longmont_580x221-diffuse.jpg
+#  image_fullwidth: gear-wallpaper-1600x507-dark.jpg
 
 show_meta: false
 permalink: "/about/"
 
 ---
-<div class="panel">
-	<h2>Our Story</h2>
-	<p> Archethought, founded in 2008, recently pivoted from data science consulting to commercialize micro-location technology, a rapidly growing field mapping indoor human and asset location. The company offers a subscription platform to deliver applications based on micro-location tracking data, using inexpensive, open source sensor hardware. Portions of the technology were developed to support astronaut wellness on the NASA Mars Mission.  
+<div class="panel" >
+	<h2> Our Story </h2>
+	<p>
+	Archethought, founded in 2008, recently pivoted from data science consulting to commercialize micro-location technology, a rapidly growing field mapping indoor human and asset location. The company offers a subscription platform to deliver applications based on micro-location tracking data, using inexpensive, open source sensor hardware. Portions of the technology were developed to support astronaut wellness on the NASA Mars Mission.   
 	</p>
-	<p>The company is pre-revenue and is developing product fit across several markets, e.g. building information management, retail, security, hospitality, manufacturing, insurance and healthcare providers. The total market is forecast to grow from USD 4.72 Billion in 2016 to USD 23.13 Billion by 2021.  
+	<p>
+	The company is pre-revenue and is developing product fit across several markets, e.g. building information management, retail, security, hospitality, manufacturing, insurance and healthcare providers. The total market is forecast to grow from USD 4.72 Billion in 2016 to USD 23.13 Billion by 2021.  
 	</p>
 </div>
 
 <div class="row">
 
-  <div class="large-4 columns panel">
+  <div class="large-8 columns ">
 
 As an integrated platform that includes both sensors and applications, we believe we are well positioned to quickly discover and exploit applications and installations in one or more of the target markets. We have contacted significant companies in their vertical markets and met with excellent interest. As an example, we are engaged in licensing negotiations with a leading maker of indoor location systems. Within three years we expect to have a significant, rapidly growing business serving global customers.
 	
   </div>
-	
-  <div class="large-4 columns" >
-Competitive technologies today fall into event-based, visual and radio wave categories. Event-based technologies capture open/close or walk-by events and provide no track information. Visual technologies attempt to measure human activity in a certain field of view using IP cameras, but provide neither tracks, nor tracks among multiple cameras. Radio wave technologies attempt to manage location events only, such as an emergency beacon, or serve single-purpose, highly localized, high value applications using high cost, RTLS technology. An example RTLS application is to prevent construction workers from falling off elevated platforms. Further, existing systems are not linked to integrated cloud application development platforms. Therefore we believe there are no widely available, inexpensive, general purpose, high accuracy systems, and we believe our deep integration presents a strong and immediate competitive advantage.
- 
+  <div class="large-4 columns" markdown="1">
+![beacons]({{ site.urlimg }}/buildingBeacon.jpg "Beacons & Sensors")	
+  </div>
+
+</div>
+
+<div class="row">
+  <div class="large-12 columns panel" >
+	Competitive technologies today fall into event-based, visual and radio wave categories. Event-based technologies capture open/close or walk-by events and provide no track information. Visual technologies attempt to measure human activity in a certain field of view using IP cameras, but provide neither tracks, nor tracks among multiple cameras. Radio wave technologies attempt to manage location events only, such as an emergency beacon, or serve single-purpose, highly localized, high value applications using high cost, RTLS technology. An example RTLS application is to prevent construction workers from falling off elevated platforms. Further, existing systems are not linked to integrated cloud application development platforms. Therefore we believe there are no widely available, inexpensive, general purpose, high accuracy systems, and we believe our deep integration presents a strong and immediate competitive advantage.
   </div> 
+</div>
 
-  <div class="large-4 columns panel">
 
-The company is seeking a $500,000 to complete initial technology development and execute product market fit. To date, the company has already accomplish over nine months of self-funded R&D. We seek funding from the State of Colorado, as we believe the State of Colorado will benefit extensively from the deployment of our platform, in multiple diverse markets and multiple industries. As examples, advancing features and benefits in healthcare, manufacturing and hospitality will greatly increase the reputation of the front range as a source and destination for innovation. Our most likely exit is through a strong licensing deal or sale of the company to an established vendor seeking to extend reach both in technology and market spaces.
-	
+<div class="row">
+  <div class="large-12 columns ">
+	The company is seeking $500,000 to complete initial technology development and execute product market fit. To date, the company has already accomplish over nine months of self-funded R&D. We seek funding from the State of Colorado, as we believe the State of Colorado will benefit extensively from the deployment of our platform, in multiple diverse markets and multiple industries. As examples, advancing features and benefits in healthcare, manufacturing and hospitality will greatly increase the reputation of the front range as a source and destination for innovation. Our most likely exit is through a strong licensing deal or sale of the company to an established vendor seeking to extend reach both in technology and market spaces.	
   </div>  
 </div>
 
+## FAQ
 <dl class="accordion" data-accordion>
-
  <dd class="accordion-navigation">
     <a href="#panel1">Why Micro-location?</a>
     <div id="panel1" class="content">
