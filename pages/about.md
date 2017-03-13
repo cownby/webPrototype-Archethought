@@ -18,18 +18,19 @@ permalink: "/about/"
 	Archethought offers micro-location solutions, using inexpensive, open source sensor hardware. Portions of the technology were developed to support astronaut wellness on the NASA Mars Mission. 
     An extensive data processing system is hosted in the cloud and available via the web and mobile systems to work with and exploit micro-location data.
 	</p>
-	<p>
-	Micro-location addresses several markets, e.g. building information management, retail, security, hospitality, manufacturing, insurance and healthcare providers. 
-    The total market is forecast to grow from USD 4.72 Billion in 2016 to USD 23.13 Billion by 2021.  
-	</p>
 </div>
 
 <div class="row">
 
   <div class="large-8 columns ">
-
-We are interested in partnering with experts where micro-location is known and ready for pilot programs. Within three years we expect to have a significant, rapidly growing business serving global customers. Contact us to learn if we can grow business together.
-	
+	<p>
+	Micro-location addresses several markets, e.g. building information management, retail, security, hospitality, manufacturing, insurance and healthcare providers. 
+    The total market is forecast to grow from USD 4.72 Billion in 2016 to USD 23.13 Billion by 2021.  
+	</p>
+    <p>
+    We are interested in partnering with experts where micro-location is known and ready for pilot programs. Within three years we expect to have a significant, rapidly growing business serving global customers. 
+    Contact us to learn if we can grow business together.
+    </p>
   </div>
   <div class="large-4 columns" markdown="1">
 ![beacons]({{ site.urlimg }}/buildingBeacon.jpg "Beacons & Sensors")	
