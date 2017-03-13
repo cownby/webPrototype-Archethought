@@ -12,12 +12,14 @@ show_meta: false
 permalink: "/about/"
 
 ---
-<div class="panel" >
+<div class="row">
+  <div class="large-12 columns panel" >
 	<h2> Our Story </h2>
 	<p>
 	Archethought offers micro-location solutions, using inexpensive, open source sensor hardware. Portions of the technology were developed to support astronaut wellness on the NASA Mars Mission. 
     An extensive data processing system is hosted in the cloud and available via the web and mobile systems to work with and exploit micro-location data.
 	</p>
+  </div>
 </div>
 
 <div class="row">
