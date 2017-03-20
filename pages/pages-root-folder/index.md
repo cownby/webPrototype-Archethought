@@ -36,9 +36,10 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-#  url: https://tinyletter.com/feeling-responsive
-  text: This is an optional callout designed to link to something - contact, feedback, more info, etc.
-  style: alert
+  url: '/about'
+  text: Our heritage consists of expertise across many aspects of data science, artificial intelligence, machine learning, software and hardware engineering, and full stack web development. We are a community focused organization with great enthusiasm towards innovations that improve the daily lives of our citizens.
+# five different kinds of alerts: warning (orange), info (blue), success, alert (red) and text (blue).
+  style: info
 #  
 permalink: /index.html
 #

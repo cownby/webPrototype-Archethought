@@ -2,7 +2,8 @@
 layout: page
 title: Ideas & Verbiage
 ---
-__This page is just veriage or ideas we might use__
+__This page is just verbiage or ideas we might use.__
+__This page will NOT be in the final draft.__
 
 ## What does the Archethought Web Site Accomplish?
 

@@ -1,9 +1,9 @@
 - menu_name: "Credits"
 
-- name: "Feeling Responsive Jekyll theme by Phlow"
-  url: "https://phlow.github.io/feeling-responsive/"
+- name: "Images by Pixabay"
+  url: "https://pixabay.com/"
   class: "sitemap-link"
-  title: "Feeling Responsive Jekyll theme by Phlow"
+  title: "Images by Pixabay"
   
 - name: "Icons by Daniel Bruce"
   url: "http://entypo.com/"
