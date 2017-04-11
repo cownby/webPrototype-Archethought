@@ -8,13 +8,21 @@ permalink: "/products/customization/"
 *Content here is dumped from our old website, experimenting with foundation grid.   
 TODO: Describe our customization services*
 
+## Synthesized Data Sets
+Data of sufficient volume and which pushes all boundary cases is imperitive for robust system design and testing.
+We specialize in creating data for this need.
+For example,
+modern traffic planning for intelligent transportation systems (ITS) can be made easier by creating synthetic trip data instead of creating in the real world. 
+Although real world data is ultimately needed to validate ITS decisions, sythetic data can be a realistic substitute.
+Using Google algortithms we can even create reference timing data for synthesis against historical data to get realistic times & routes.
+
 ## Smart Infrastructure & IoT
 _Working with the Community to Create Revolutionary Solutions_
 
-Smart Infrastructure is about creating sustainable communities, social heath, better farming & water conservation practices along with healthy economies. Using the Internet of Things like beacons and sensors we can collect large amounts of data that allow us to monitor, change, and develop better ways of living. IoT can be designed for large projects as well as small.
+Smart Infrastructure is about creating sustainable communities, social heath, better farming & water conservation practices, along with healthy economies. Using the Internet of Things such as beacons and sensors we can collect large amounts of data that allow us to monitor, change, and develop better ways of living. IoT can be designed for large projects as well as small.
 
 ## Technology Meetups
-Archethought hosts, sponsors, and helps organize numerous meetups related to startups, data, and music in Longmont. 
+Archethought hosts, sponsors, and helps organize numerous meetups related to startups, smart cities, and data. 
 We would love to see you at the next one!
 
 * <a href="http://www.meetup.com/Applied-Data-Engineering/" target="_meetup"> Data Science</a>
