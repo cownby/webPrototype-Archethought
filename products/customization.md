@@ -10,10 +10,11 @@ TODO: Describe our customization services*
 
 ## Synthesized Data Sets
 Data of sufficient volume and which pushes all boundary cases is imperitive for robust system design and testing.
-We specialize in creating data for this need.
+We specialize in creating data for this need.  
+
 For example,
-modern traffic planning for intelligent transportation systems (ITS) can be made easier by creating synthetic trip data instead of creating in the real world. 
-Although real world data is ultimately needed to validate ITS decisions, sythetic data can be a realistic substitute.
+modern traffic planning for intelligent transportation systems (ITS) can be made easier by creating synthetic trip data instead of creating it in the real world. 
+Although real world data is ultimately needed to validate ITS decisions, synthetic data can be a realistic substitute.
 Using Google algortithms we can even create reference timing data for synthesis against historical data to get realistic times & routes.
 
 ## Smart Infrastructure & IoT
