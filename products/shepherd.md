@@ -5,10 +5,10 @@ excerpt: "Transform Your Business Through Knowledge"
 subheadline: "Transform Your Business Through Knowledge"
 #teaser: "(or here?) Transform Your Business Through Knowledge"
 modified: 
-image:
-  feature: logo-Archethought.png
-  credit: Archethought
-  creditlink: http://archethought.com
+#image:
+#  feature: logo-Archethought.png
+#  credit: Archethought
+#  creditlink: http://archethought.com
 ---
 
 <div class="row">
@@ -25,7 +25,7 @@ deploys quickly. You can launch and learn today!
 </div>
 </div>
 <div class="large-2 columns" markdown="1">
-![Perplexed Giraffe]({{ site.urlimg }}borrowed/pixabay-giraffe-308771__340.png "Perplexed Giraffe")
+![Perplexed Giraffe]({{ site.urlimg }}borrowed/looking/pixabay-giraffe-308771__340.png "Perplexed Giraffe")
 </div>
 </div>
 

@@ -13,17 +13,17 @@ header:
 widget1:
   title: "Retail"
   url: "/products/shepherd/"
-  image: CosolveUnit1-5-340w.jpg
-  text: 'What’s Going On? Where Is Everybody? How Do I Find Out? If you could understand, what could you do better?'
+  image: pixabay-shopping-1135607__340x340.jpg
+  text: 'What’s Going On? Where Is Everybody? How Do I Find Out? If you could understand these areas, what could you do better?'
 widget2:
   title: "Smart Cities"
   url: '/products/'
-  image: CosolveUnit1-5-340w.jpg
-  text: 'What if your city told you its success stories, trouble areas and where help was needed? What if you knew today? What about the next hour? What about right now?'
+  image: pixabay-city-569093__340x340.jpg
+  text: 'What if your city told you its success stories, trouble areas, where help was needed? What if you knew today? What about the next hour? What about <em>right now</em>?'
 widget3:
   title: "Customization"
   url: '/products/customization'
-  image: CosolveUnit1-5-340w.jpg
+  image: CosolveUnit1-5-340x340.jpg
   text: 'We <em>love</em> tech, and are dedicated to open source solutions.'
 #
 # Use the call for action to show a button on the frontpage
@@ -35,11 +35,11 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-callforaction:
-  url: '/about'
-  text: Our heritage consists of expertise across many aspects of data science, artificial intelligence, machine learning, software and hardware engineering, and full stack web development. We are a community focused organization with great enthusiasm towards innovations that improve the daily lives of our citizens.
+#callforaction:
+#  url: '/about'
+#  text: Our heritage consists of expertise across many aspects of data science, #artificial intelligence, machine learning, software and hardware engineering, #and full stack web development. We are a community focused organization with #great enthusiasm towards innovations that improve the daily lives of our citizens.
 # five different kinds of alerts: warning (orange), info (blue), success, alert (red) and text (blue).
-  style: info
+#  style: info
 #  
 permalink: /index.html
 #
@@ -48,3 +48,6 @@ permalink: /index.html
 #
 homepage: true
 ---
+Archethought is commercializing smart city and micro-location technology, rapidly growing fields mapping outdoor & indoor locations for people and intelligent assets. We offer a subscription platform, Metro Bus™ to companies seeking to reduce costs and increase opportunities to help their customers and improve operational efficiency by collecting and using better data.
+
+We are seeking Pilot Partners to develop and deploy solutions. Contact us to arrange a pilot for your organization.
