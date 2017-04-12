@@ -11,15 +11,15 @@ header:
   image_fullwidth: gear-wallpaper-1600x507-dark.jpg
 
 widget1:
-  title: "Micro-location"
+  title: "Retail"
   url: "/products/shepherd/"
-  image: borrowed/clker-free-binoculars-40881__340.png
-  text: 'Where IS Everybody?!?'
+  image: retail-bg-340w.jpg
+  text: 'What’s Going On? Where Is Everybody? How Do I Find Out? If you could understand, what could you do better?'
 widget2:
-  title: "Solutions "
+  title: "Smart Cities"
   url: '/products/'
-  image: borrowed/pixabay-board-1521348__340.jpg
-  text: 'We define innovation as the identification and removal of bottlenecks. That is what we do! '
+  image: denver-skyline-bg-340w.jpg
+  text: 'What if your city told you its success stories, trouble areas and where help was needed? What if you knew today? What about the next hour? What about right now?'
 widget3:
   title: "Customization"
   url: '/products/customization'
