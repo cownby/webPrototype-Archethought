@@ -13,12 +13,12 @@ header:
 widget1:
   title: "Retail"
   url: "/products/shepherd/"
-  image: retail-bg-340w.jpg
+  image: CosolveUnit1-5-340w.jpg
   text: 'What’s Going On? Where Is Everybody? How Do I Find Out? If you could understand, what could you do better?'
 widget2:
   title: "Smart Cities"
   url: '/products/'
-  image: denver-skyline-bg-340w.jpg
+  image: CosolveUnit1-5-340w.jpg
   text: 'What if your city told you its success stories, trouble areas and where help was needed? What if you knew today? What about the next hour? What about right now?'
 widget3:
   title: "Customization"

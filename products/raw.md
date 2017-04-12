@@ -100,3 +100,6 @@ The company is a Colorado C Corp with marketing messages, a single page summary 
   
 Why do you require state funding to complete these deliverables? (Q. 34)
 Investment in this sector is foundational, meaning we believe we can affect a large number of markets across Colorado, creating a strong message of innovation for Colorado. It is important to us to have Colorado behind us, as we believe this will be a strong vote of confidence to attract talent while building a company and markets here.
+
+## Other
+* We define innovation as the identification and removal of bottlenecks. That is what we do! 
