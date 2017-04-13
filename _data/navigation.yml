@@ -6,8 +6,6 @@
   url: "/products/"
   side: left
   dropdown:
-  - title: "Raw Content"
-    url: "/products/raw/"
   - title: "Shepherd"
     url: "/products/shepherd/"
   - title: "Giskard"
@@ -29,6 +27,11 @@
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
+
+- title: "Sample Verbiage"
+  url: "/verbiage-samples/"
+  side: left
+  
 
 - title: "Search"
   url: "/search/"

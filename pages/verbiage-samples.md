@@ -1,7 +1,16 @@
 ---
-layout: page
+layout: page-fullwidth
 title: Ideas & Verbiage
+
+header:
+  image_fullwidth: gear-wallpaper-1600x507-dark.jpg
+
+show_meta: false
+permalink: "/verbiage-samples/"
+
 ---
+
+
 __This page is just verbiage or ideas we might use.__
 __This page will NOT be in the final draft.__
 
@@ -21,9 +30,18 @@ __This page will NOT be in the final draft.__
 * Inform about Privacy Policy and what we do with your data
 * Inform about our PSA terms, e.g. billing
 
+## Misc
+* We define innovation as the identification and removal of bottlenecks. That is what we do! 
 
 
-## Raw Content
+## Team
+* The Archethought team has a wide variety of skill sets and diciplines from backend development, frontend design, to circuit and sensor implementation. We look to cultivate a team environment that is fun and engaging with the opportunity to learn new things and explore new technologies.
+
+* We consist of deeply experienced engineering and business team members, including multiple members with graduate degrees from CU Boulder, CSU, Notre Dame, and Washington University as well as experience delivering products and services at companies such as IBM, Compaq and Silicon Valley Bank.
+
+* Our heritage consists of expertise across many aspects of data science, #artificial intelligence, machine learning, software and hardware engineering, #and full stack web development. We are a community focused organization with #great enthusiasm towards innovations that improve the daily lives of our citizens. (Darren's linkedIn profile)
+
+## Raw Content from something Dixon wrote
 Executive Summary
 Archethought, founded in 2008, recently pivoted from data science consulting to commercialize micro-location technology, a rapidly growing field mapping indoor human and asset location. The company offers a subscription platform to deliver applications based on micro-location tracking data, using inexpensive, open source sensor hardware. Portions of the technology were developed to support astronaut wellness on the NASA Mars Mission.  
 
@@ -100,6 +118,3 @@ The company is a Colorado C Corp with marketing messages, a single page summary 
   
 Why do you require state funding to complete these deliverables? (Q. 34)
 Investment in this sector is foundational, meaning we believe we can affect a large number of markets across Colorado, creating a strong message of innovation for Colorado. It is important to us to have Colorado behind us, as we believe this will be a strong vote of confidence to attract talent while building a company and markets here.
-
-## Other
-* We define innovation as the identification and removal of bottlenecks. That is what we do! 

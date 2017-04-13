@@ -13,9 +13,9 @@ permalink: "/team/"
 
 ![Archethought Team]({{site.urlimg}}/IMG_6253-group.jpg "Archethought Team")
 
-The Archethought team has a wide variety of skill sets and diciplines from backend development, frontend design, to circuit and sensor implementation. We look to cultivate a team environment that is fun and engaging with the opportunity to learn new things and explore new technologies.
+Our company has deep roots helping customers use technology. We cultivate a team environment that is fun and engaging with the opportunity to meet with customers and explore new technologies.
 
-We consist of deeply experienced engineering and business team members, including multiple members with graduate degrees from CU Boulder, CSU, Notre Dame, and Washington University as well as experience delivering products and services at companies such as IBM, Compaq and Silicon Valley Bank.
+We consist of deeply experienced engineering and business team members, including multiple members with graduate degrees from CU Boulder, CSU, Notre Dame, and Washington University in St Louis as well as experience delivering products and services at companies such as IBM, Compaq, and Silicon Valley Bank.
 <div class="row">
 
   <div class="large-7 columns"  text-align: right>
