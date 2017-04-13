@@ -42,6 +42,11 @@ __This page will NOT be in the final draft.__
 * Our heritage consists of expertise across many aspects of data science, #artificial intelligence, machine learning, software and hardware engineering, #and full stack web development. We are a community focused organization with #great enthusiasm towards innovations that improve the daily lives of our citizens. (Darren's linkedIn profile)
 
 ## Raw Content from something Dixon wrote
+
+Archethought is commercializing smart city and micro-location technology, rapidly growing fields mapping outdoor & indoor locations for people and intelligent assets. We offer a subscription platform, Metro Bus™ to companies seeking to reduce costs and increase opportunities to help their customers and improve operational efficiency by collecting and using better data.
+
+We are seeking Pilot Partners to develop and deploy solutions. Contact us to arrange a pilot for your organization.
+
 Executive Summary
 Archethought, founded in 2008, recently pivoted from data science consulting to commercialize micro-location technology, a rapidly growing field mapping indoor human and asset location. The company offers a subscription platform to deliver applications based on micro-location tracking data, using inexpensive, open source sensor hardware. Portions of the technology were developed to support astronaut wellness on the NASA Mars Mission.  
 
